@@ -1,13 +1,13 @@
 [
     {
       "name": "The God",
-      "unitType": "Scout",
+      "unitType": "Helicopter",
       "uniqueTo": "Macrobia",
       "movement": 10000,
       "strength": 10000,
       "cost": 10,
       "uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
-      "All tiles cost 0 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "[+1000] Sight", "[1000] additional attacks per turn", "Can see over obstacles",
+      "All tiles cost 0 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit", "[+1000] Sight", "[1000] additional attacks per turn", "Can see over obstacles",
       "All adjacent units heal [+1000] HP when healing", "Ignores terrain cost"],
       "promotions": ["Ignore terrain cost"],
       "attackSound": "nonmetalhit"
