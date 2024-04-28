@@ -1,15 +1,15 @@
 [
     {
       "name": "The God",
-      "unitType": "Bomber",
+      "unitType": "Helicopter",
       "uniqueTo": "Macrobia",
       "movement": 100,
       "strength": 1000,
       "rangedStrength": 1000,
-      "range": 1000,
+      "range": 10,
       "cost": 10,
       "uniques": ["No defensive terrain bonus", "Can move after attacking",
-      "All tiles cost 0 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit", "[+100] Sight", "[1000] additional attacks per turn", "Can see over obstacles",
+      "All tiles cost 0 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit", "[+10] Sight", "[100] additional attacks per turn", "Can see over obstacles",
       "All adjacent units heal [+100] HP when healing", "Ignores terrain cost", "Ranged attacks may be performed over obstacles"],
       "promotions": ["Ignore terrain cost"],
       "attackSound": "bombing"
