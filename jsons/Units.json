@@ -1,7 +1,7 @@
 [
     {
       "name": "The God",
-      "unitType": "Helicopter",
+      "unitType": "Scout",
       "uniqueTo": "Macrobia",
       "health": 10000,
       "movement": 100,
