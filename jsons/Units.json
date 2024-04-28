@@ -3,6 +3,7 @@
       "name": "The God",
       "unitType": "Helicopter",
       "uniqueTo": "Macrobia",
+      "health": 10000,
       "movement": 100,
       "strength": 1000,
       "rangedStrength": 1000,
