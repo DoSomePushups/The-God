@@ -3,7 +3,7 @@
       "name": "The God",
       "unitType": "Scout",
       "uniqueTo": "Macrobia",
-      "movement": 100,
+      "movement": 200,
       "strength": 1000,
       "rangedStrength": 1000,
       "interceptRange": 10,
